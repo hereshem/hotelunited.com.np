@@ -307,7 +307,7 @@ textarea::placeholder {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(35, 31, 31, 0.8);
+	background-color: rgba(35, 31, 31, 0.5);
 	z-index: -1;
 }
 
@@ -903,7 +903,7 @@ textarea::placeholder {
 
 .gallery-wrap a::after {
 	content: "";
-	background-image: url("../images/magnify.svg");
+	background-image: url("../images/icons/magnify.svg");
 	background-size: 100% 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
