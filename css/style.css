@@ -293,7 +293,7 @@ textarea::placeholder {
 	padding: 175px 0;
 	color: #fff;
 	text-align: center;
-	background-position: center top;
+	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	min-height: 640px;
